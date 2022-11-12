@@ -1,7 +1,6 @@
 # Decode-a-Morse
-> In this project we are writing a Ruby code to decode a Morse message. We use terminal to run and test output of our code.
+> In this project we demonstrated how to use a module inside class. For this created a class MyList and a module MyEnumerable. The  MyEnumerable module provides a subset of the functionality namely #all?, #any? and #filter of ruby's Enumerable.
 
-![Project Screenshot](./snapshot.PNG "MoneySter")
 
 ## Built With
 
